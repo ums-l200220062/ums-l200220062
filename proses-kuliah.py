@@ -72,5 +72,5 @@ class InformatikaCourseFlow(FlowSpec):
             print("Tidak ada nilai yang tercatat.")
 
 # Menjalankan flow
-if _name_ == '_main_':
+if __name__ == '__main__':
     InformatikaCourseFlow()
